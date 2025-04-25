@@ -1,5 +1,3 @@
-New line added
-Added DashBoard xxx
 Addressbook Tutorial
 ====================
 
